@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LettersToWords.Properties;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,12 +9,12 @@ namespace LettersToWords {
 	class Program {
 
 		static void Main(string[] args) {
-			String[] wordList = FileHandler.readFile();
-			foreach (String s in wordList) {
-				WordHandler.addWord(s);
+			string[] wordList = Resources.Words.Split('\n');
+			foreach (string s in wordList) {
+				WordHandler.addWord(s.Trim());
 			}
 			do {
-				Console.WriteLine("Please enter a set of letters");
+				Console.WriteLine("Please enter a set of letters, hold control and c to exit");
 				List<String> w = WordHandler.getWords(Console.ReadLine());
 				foreach (String word in w) {
 					Console.WriteLine(word);

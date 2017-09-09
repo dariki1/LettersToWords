@@ -6,20 +6,12 @@ using System.Threading.Tasks;
 
 namespace LettersToWords {
 	class WordHandler {
-		//Must be in alphabetical order
-		/*static String[] wList = {
-			"add",
-			"dear",
-			"dread",
-			"rear",
-			"red"
-		};*/
 
 		static List<CharacterNode> wList = new List<CharacterNode>();
 
 		static CharacterNode masterNode = new CharacterNode('|');
 
-		public static void addWord(String w) {
+		public static void addWord(string w) {
 			innerAdd(masterNode, w.ToLower());
 		}
 
@@ -65,6 +57,7 @@ namespace LettersToWords {
 				foreach (String s in add) {
 					ret.Add(parentNode.myChar + "|" + s);
 				}
+				//ret = new List<string>();
 			}
 			//Add this node as a word
 			if (parentNode.isWord) {

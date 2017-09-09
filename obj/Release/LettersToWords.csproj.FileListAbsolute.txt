@@ -1,0 +1,7 @@
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\bin\Release\LettersToWords.exe.config
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\bin\Release\LettersToWords.exe
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\bin\Release\LettersToWords.pdb
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Release\LettersToWords.exe
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Release\LettersToWords.pdb
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Release\LettersToWords.Properties.Resources.resources
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Release\LettersToWords.csproj.GenerateResource.Cache

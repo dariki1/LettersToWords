@@ -4,3 +4,5 @@ C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\bin\Debug\LettersToWo
 C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.csprojResolveAssemblyReference.cache
 C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.exe
 C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.pdb
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.Properties.Resources.resources
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.csproj.GenerateResource.Cache
