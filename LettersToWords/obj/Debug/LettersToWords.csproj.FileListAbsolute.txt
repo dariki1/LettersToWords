@@ -1,0 +1,16 @@
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\bin\Debug\LettersToWords.exe.config
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\bin\Debug\LettersToWords.exe
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\bin\Debug\LettersToWords.pdb
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.csprojResolveAssemblyReference.cache
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.exe
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.pdb
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.Properties.Resources.resources
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\obj\Debug\LettersToWords.csproj.GenerateResource.Cache
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\bin\Debug\LettersToWords.exe.config
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\bin\Debug\LettersToWords.exe
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\bin\Debug\LettersToWords.pdb
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\obj\Debug\LettersToWords.csprojResolveAssemblyReference.cache
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\obj\Debug\LettersToWords.Properties.Resources.resources
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\obj\Debug\LettersToWords.csproj.GenerateResource.Cache
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\obj\Debug\LettersToWords.exe
+C:\Projects\Visual Studio\C#\LettersToWords\LettersToWords\LettersToWords\obj\Debug\LettersToWords.pdb
